@@ -7,7 +7,7 @@ I have a strong interest in C++, Python, SQL with some experience in Java and R.
 ## Tools & Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=358e9a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=358e9a)
+![](https://img.shields.io/badge/OS-OSx-informational?style=flat&logo=apple&logoColor=white&color=358e9a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=358e9a)
 ![](https://img.shields.io/badge/Shell-ZShell-informational?style=flat&logo=gnu-zshell&logoColor=white&color=358e9a)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=gnu-powershell&logoColor=white&color=358e9a)
