@@ -15,7 +15,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs13" />
+     id="defs13">
+    <rect
+       x="147.74934"
+       y="61.9594"
+       width="1205.8252"
+       height="228.77317"
+       id="rect4287" />
+  </defs>
   <sodipodi:namedview
      id="namedview11"
      pagecolor="#ffffff"
@@ -24,23 +31,62 @@
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
-     showgrid="false"
-     inkscape:zoom="1.2588889"
-     inkscape:cx="450"
-     inkscape:cy="112.79788"
+     showgrid="true"
+     inkscape:zoom="0.62944444"
+     inkscape:cx="693.46867"
+     inkscape:cy="238.30538"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g15" />
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid41603" />
+    <sodipodi:guide
+       position="0,225"
+       orientation="0,900"
+       inkscape:locked="true"
+       id="guide41647" />
+    <sodipodi:guide
+       position="900,225"
+       orientation="225,0"
+       inkscape:locked="true"
+       id="guide41649" />
+    <sodipodi:guide
+       position="900,0"
+       orientation="0,-900"
+       inkscape:locked="true"
+       id="guide41651" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-225,0"
+       inkscape:locked="true"
+       id="guide41653" />
+    <sodipodi:guide
+       position="740,25"
+       orientation="0,-1"
+       id="guide41781" />
+    <sodipodi:guide
+       position="660,-155"
+       orientation="1,0"
+       id="guide41801" />
+    <sodipodi:guide
+       position="780,105"
+       orientation="1,0"
+       id="guide42019" />
+  </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g15">
     <image
-       width="900"
-       height="225"
+       width="1510.0618"
+       height="377.51544"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
        xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
@@ -901,6 +947,23 @@ sEAAAEDuMcL4IRAxb/6HpDeibB0QBZbaJbZZa/Sp64K4LY5JQEMMYDwNBgOjfsUbctmuBCkTpEJI
 AAM8CFSBAG6CJggABQxElsOesibDhBtUWzTeBuG9oiH82DvRsNyHHouAIcWSMGdtEk0D/reJAp/z
 O/S4AAAQA27QrnDn0znGz4Qg/mD3l7TwLZmw3HEFtp//2Q==
 "
-       id="image17" />
+       id="image17"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       id="text4285"
+       style="font-style:normal;font-weight:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4287);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(260.54721,98.499559)"><tspan
+         x="147.75"
+         y="123.61266"
+         id="tspan42238"><tspan
+           style="font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space, Normal';fill:#ffffff"
+           id="tspan42236">Jeorge Anderson</tspan></tspan></text>
   </g>
 </svg>
