@@ -13,6 +13,7 @@ I have a strong interest in:
 <li>Full Stack Developent</li>
 <li>Data & Analytics</li>
 <li>Integrating Security</li>
+<li>ML & AI </li>
 <li>Continuous Learning</li>
 </ul>
 
