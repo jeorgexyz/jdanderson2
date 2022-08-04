@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="https://github.com/jdanderson2/jdanderson2/blob/316db11dd7b8224ba065161fd8d79d51a96eef4c/digital_world.svg" width="100%" height="200">
-</p>	
+
+  ![Header]( https://github.com/jdanderson2/jdanderson2/blob/b1a0438c6556ae1fe73f90ba4fadcd4501a2f13d/digital_world2.svg "Header")
+ 
+  
 
 
-## Hi, I'm Jeorge
+## WELCOME
 
 I am a multi-disciplinary engineer who is passionate about building systems and I love solving complex problems using data science and quantitative analysis as tool.
 
