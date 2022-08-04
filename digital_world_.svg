@@ -25,6 +25,17 @@
        width="1205.8252"
        height="228.77316"
        id="rect4287" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath42783">
+      <rect
+         style="fill:#ffffff"
+         id="rect42785"
+         width="1520"
+         height="380"
+         x="0"
+         y="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="namedview11"
@@ -43,7 +54,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g15"
+     inkscape:current-layer="layer1"
      inkscape:lockguides="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -88,13 +99,21 @@
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g15">
-    <image
-       width="1510.0618"
-       height="377.51544"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+     id="g15" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Text">
+    <g
+       id="g42394"
+       transform="translate(-20,-20)"
+       clip-path="url(#clipPath42783)">
+      <image
+         width="1510.0618"
+         height="377.51544"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
 CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
 FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCADhA4QDASIA
 AhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABAABAgMFBgcI/8QAGgEAAwEBAQEAAAAAAAAAAAAA
@@ -952,23 +971,24 @@ sEAAAEDuMcL4IRAxb/6HpDeibB0QBZbaJbZZa/Sp64K4LY5JQEMMYDwNBgOjfsUbctmuBCkTpEJI
 AAM8CFSBAG6CJggABQxElsOesibDhBtUWzTeBuG9oiH82DvRsNyHHouAIcWSMGdtEk0D/reJAp/z
 O/S4AAAQA27QrnDn0znGz4Qg/mD3l7TwLZmw3HEFtp//2Q==
 "
-       id="image17"
-       x="0"
-       y="0" />
+         id="image17"
+         x="0"
+         y="0" />
+      <text
+         xml:space="preserve"
+         id="text4285"
+         style="font-style:normal;font-weight:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4287);fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(260.54721,98.499559)"><tspan
+           x="147.75"
+           y="123.61266"
+           id="tspan42810"><tspan
+             style="font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space, Normal';fill:#ffffff"
+             id="tspan42808">Jeorge Anderson</tspan></tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Text">
-    <text
-       xml:space="preserve"
-       id="text4285"
-       style="font-style:normal;font-weight:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4287);fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(260.54721,98.499559)"><tspan
-         x="147.75"
-         y="123.61266"
-         id="tspan42316"><tspan
-           style="font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space, Normal';fill:#ffffff"
-           id="tspan42314">Jeorge Anderson</tspan></tspan></text>
-  </g>
+     id="layer2"
+     inkscape:label="Text 1"
+     style="display:inline" />
 </svg>
