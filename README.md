@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/jdanderson2/jdanderson2/blob/3459c37872da0c1eaf2ed300b129836d63b24688/1657902354820.jpg" width="100%" height="150">
+</p>	
+
+
 ## Hi, I'm Jeorge
 
 I am a multi-disciplinary engineer who is passionate about building systems and I love solving complex problems using data science and quantitative analysis as tool.
