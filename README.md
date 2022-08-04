@@ -7,7 +7,14 @@
 
 I am a multi-disciplinary engineer who is passionate about building systems and I love solving complex problems using data science and quantitative analysis as tool.
 
-I have a strong interest in C++, Python, SQL with some experience in Java and R.
+I have a strong interest in: 
+
+<ul>
+<li>Full Stack Developent</li>
+<li>Data & Analytics</li>
+<li>Integrating Security</li>
+<li>Continuous Learning</li>
+</ul>
 
 ## Tools & Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=358e9a)
