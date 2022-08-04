@@ -4,11 +4,14 @@
 <svg
    version="1.1"
    id="svg9"
-   width="900"
-   height="225"
-   viewBox="0 0 900 225"
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 1587.4016 1122.5197"
    sodipodi:docname="digital_world.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:export-filename="C:\Users\Jeorge D\Pictures\header.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,7 +23,7 @@
        x="147.74934"
        y="61.9594"
        width="1205.8252"
-       height="228.77317"
+       height="228.77316"
        id="rect4287" />
   </defs>
   <sodipodi:namedview
@@ -40,10 +43,12 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g15"
      inkscape:lockguides="true"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     units="mm"
+     inkscape:document-units="mm">
     <inkscape:grid
        type="xygrid"
        id="grid41603" />
@@ -962,8 +967,8 @@ O/S4AAAQA27QrnDn0znGz4Qg/mD3l7TwLZmw3HEFtp//2Q==
        transform="translate(260.54721,98.499559)"><tspan
          x="147.75"
          y="123.61266"
-         id="tspan42238"><tspan
+         id="tspan42295"><tspan
            style="font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space, Normal';fill:#ffffff"
-           id="tspan42236">Jeorge Anderson</tspan></tspan></text>
+           id="tspan42293">Jeorge Anderson</tspan></tspan></text>
   </g>
 </svg>
