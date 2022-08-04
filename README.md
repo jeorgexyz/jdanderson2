@@ -11,7 +11,7 @@ I am a multi-disciplinary engineer who is passionate about building systems and 
 I have a strong interest in: 
 
 <ul>
-<li>Full Stack Developent</li>
+<li>Full Stack Development</li>
 <li>Data & Analytics</li>
 <li>Integrating Security</li>
 <li>ML & AI </li>
