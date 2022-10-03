@@ -6,14 +6,14 @@
 
 ## WELCOME
 
-I am a multi-disciplinary engineer who is passionate about building systems and I love solving complex problems using data science and quantitative analysis as tool.
+I am a multi-disciplinary engineer who is passionate about developing software, building systems and solving complex problems with the aid of machine learning and quantitative analysis as tool.
 
 I have a strong interest in: 
 
 <ul>
-<li>Full Stack Development</li>
+<li>Quantum Computing</li>
 <li>Data & Analytics</li>
-<li>Integrating Security</li>
+<li>Systems/Infrastructure</li>
 <li>ML & AI </li>
 <li>Continuous Learning</li>
 </ul>
