@@ -38,4 +38,4 @@ I have a strong interest in:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdanderson2&theme=dracula&langs_count=8)](https://github.com/jdanderson2/github-readme-stats)
+
