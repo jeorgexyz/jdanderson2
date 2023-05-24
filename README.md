@@ -6,33 +6,8 @@
 
 ## WELCOME
 
-I am a multi-disciplinary engineer who is passionate about developing software, building systems and solving complex problems with the aid of machine learning and quantitative analysis as tool.
+I am a multi-disciplinary engineer with expertise in Mechatronics, Machine Learning, and Quantum Machine Learning (QML). My focus lies in developing algorithms, software, and intelligent systems for tackling complex problems. I am particularly passionate about designing embodied autonomous intelligent agents.
 
-I have a strong interest in: 
-
-<ul>
-<li>Quantum Computing</li>
-<li>Data & Analytics</li>
-<li>Systems/Infrastructure</li>
-<li>ML & AI </li>
-<li>Continuous Learning</li>
-</ul>
-
-## Tools & Technologies
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/OS-OSx-informational?style=flat&logo=apple&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/Shell-ZShell-informational?style=flat&logo=gnu-zshell&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=gnu-powershell&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/Tools-PuTTY-informational?style=flat&logo=gnu-putty&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=vmware&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=358e9a)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=358e9a)
 
 
 
